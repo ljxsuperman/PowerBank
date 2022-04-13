@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/drawable/button_circle_shape.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/drawable/imageview_style.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_classification.xml" value="0.175" />
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_dtactivity.xml" value="0.175" />
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_login.xml" value="0.175" />
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_main.xml" value="0.175" />
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_record.xml" value="0.175" />
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_register.xml" value="0.175" />
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_rent.xml" value="0.175" />
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_return.xml" value="0.175" />
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_sama.xml" value="0.175" />
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_xuangze.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_ziqu.xml" value="0.14447463768115942" />
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/layout/main_title_bar.xml" value="0.175" />
+        <entry key="..\:/Users/21059/AndroidStudioProjects/PowerBank/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/86158/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_classification.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/86158/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_dtactivity.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/86158/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_login.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/86158/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/86158/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_record.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/86158/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_register.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/86158/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_sama.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/86158/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_xuangze.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/86158/AndroidStudioProjects/PowerBank/app/src/main/res/layout/activity_ziqu.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/86158/AndroidStudioProjects/PowerBank/app/src/main/res/layout/main_title_bar.xml" value="0.24114583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

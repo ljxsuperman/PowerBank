@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">芯火小队</string>
+    <string name="sent_button">送货</string>
+    <string name="GD_button">扫码</string>
+    <string name="rent_button">租借电芯</string>
+    <string name="saoma_button">扫码</string>
+    <string name="yc_button">远程</string>
+</resources>
